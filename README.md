@@ -29,9 +29,12 @@ src/
 
 ## Getting Started 
 - **Clone the Repository**:
-
+```sh
 git clone https://github.com/<your-username>/react-native-app-boilerplate.git
+```
+```sh
 cd react-native-app-boilerplate
+```
 
 - **Install Dependencies**:
 ```sh
@@ -49,17 +52,17 @@ npx react-native run-android
 npx react-native run-ios
 ```
 
-- **Set Up Debugging**:
+## - **Set Up Debugging**:
 
-Download and install the React Native Debugger from here.
+- Download and install the React Native Debugger from here.
 
-Launch the debugger before starting the app.
+- Launch the debugger before starting the app.
 
-Ensure your app connects to the debugger automatically.
+- Ensure your app connects to the debugger automatically.
 
-- **Customize the Boilerplate**:
+## Customize the Boilerplate**:
 
-Replace placeholder files in src/screens, src/components, and other folders with your own implementations.
+- Replace placeholder files in src/screens, src/components, and other folders with your own implementations.
 
 ## Show Your Support 🌟
 
