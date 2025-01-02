@@ -34,15 +34,20 @@ git clone https://github.com/<your-username>/react-native-app-boilerplate.git
 cd react-native-app-boilerplate
 
 - **Install Dependencies**:
-
+```sh
 npm install
-
+```
 - **Run the App**:
-
+```sh
 npx react-native start
+```
+```sh
 npx react-native run-android
+```
 # Or, for iOS
+```sh
 npx react-native run-ios
+```
 
 - **Set Up Debugging**:
 
