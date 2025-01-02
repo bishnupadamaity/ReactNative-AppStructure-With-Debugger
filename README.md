@@ -30,7 +30,7 @@ src/
 ## Getting Started 
 - **Clone the Repository**:
 ```sh
-git clone https://github.com/<your-username>/react-native-app-boilerplate.git
+git clone https://github.com/bishnupadamaity/react-native-app-boilerplate.git
 ```
 ```sh
 cd react-native-app-boilerplate
